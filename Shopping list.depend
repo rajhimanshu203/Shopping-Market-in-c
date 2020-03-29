@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568890446 source:c:\users\himanshu raj\desktop\shopping list\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
